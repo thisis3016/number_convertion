@@ -9,5 +9,6 @@ decimal to binary/
 decimal to hex/
 two’s complement/
 
-await for
-a lot..
+
+=========================
+IEEE754 added
